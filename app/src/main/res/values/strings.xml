@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdditionCalculator</string>
+    <string name="name">Valeria Paz</string>
+    <string name="type_number">Insert a number here</string>
+</resources>
