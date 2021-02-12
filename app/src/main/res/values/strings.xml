@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">AdditionCalculator</string>
-    <string name="name">Valeria Paz</string>
-    <string name="type_number">Insert a number here</string>
+    <string name="hint">Insert a number here</string>
+    <string name="app_name">addition_calculator</string>
+    <string name="addition_calculator">Addition Calculator</string>
+    <string name="show_result">Show Result</string>
+    <string name="app_creation">Application by Valeria Paz</string>
+    <string name="calculator_image">calculator_image</string>
+
 </resources>
